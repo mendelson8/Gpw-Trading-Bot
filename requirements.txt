@@ -1,0 +1,11 @@
+feedparser
+google-genai
+python-dotenv
+pyautogui
+pillow
+pytesseract
+easyocr
+numpy>=1.26.0
+pync
+requests
+beautifulsoup4
